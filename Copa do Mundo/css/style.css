@@ -36,7 +36,7 @@ h2{
 
 .grade{
     display: grid;
-    grid-template-columns: calc(25%-15px) calc(25%-15px) calc(25%-15px) calc(25%-15px);
+    grid-template-columns: calc(25% - 15px) calc(25% - 15px) calc(25% - 15px) calc(25% - 15px);
     background-color: transparent;
     height: 760px;
     grid-gap: 20px 20px;
